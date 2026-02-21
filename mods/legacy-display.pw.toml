@@ -1,0 +1,13 @@
+name = "Legacy Display"
+filename = "legacy-display-1.1.11.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TmbxdF9G/versions/x52V24zb/legacy-display-1.1.11.jar"
+hash-format = "sha512"
+hash = "020c76733e46835d926d7aae11b1e4df821e0b4d8ce31d91d934f75e30e29a581dcfd3a49d3087b45389f3ab82d6215467ec569d6a8b6af17deb118ead5ab06e"
+
+[update]
+[update.modrinth]
+mod-id = "TmbxdF9G"
+version = "x52V24zb"

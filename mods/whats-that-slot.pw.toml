@@ -1,0 +1,13 @@
+name = "What's That Slot?"
+filename = "whats-that-slot-fabric-1.3.6+1.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7b5VoITI/versions/dZ5s0jOU/whats-that-slot-fabric-1.3.6%2B1.21.jar"
+hash-format = "sha512"
+hash = "6a578e9142beaea53dc9d7feb40545b3df14020be8759c2a26e1152a193822d27846d0775cc41b93315351aa8bab3664a5c023be19d0789481d62d927f6200b4"
+
+[update]
+[update.modrinth]
+mod-id = "7b5VoITI"
+version = "dZ5s0jOU"

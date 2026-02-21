@@ -1,0 +1,13 @@
+name = "Hunger Remover"
+filename = "hunger-remover-1.0.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Duxl9QUS/versions/WAAPGOC5/hunger-remover-1.0.10.jar"
+hash-format = "sha512"
+hash = "3f20e35b0041ce91f2f74bfea246ff33b63444f4e9b03a2c35244fd70d68edde5a3b74310c1834b69fbffd85ddcf8886235a361de4f10270f277cdf1f33c6fc8"
+
+[update]
+[update.modrinth]
+mod-id = "Duxl9QUS"
+version = "WAAPGOC5"

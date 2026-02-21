@@ -1,0 +1,13 @@
+name = "Conveyor Belts"
+filename = "conveyor-belts-[MC1.21.1]-1.9.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WjHeCvm0/versions/BktHjldX/conveyor-belts-%5BMC1.21.1%5D-1.9.4.jar"
+hash-format = "sha512"
+hash = "2e53e3f380ebfb2026148c3f2357220e3e325259c48e6518345dec6e5136499635b690c797905d11e5a210d7c406226a54490fe323a26d4399f15314bacce70c"
+
+[update]
+[update.modrinth]
+mod-id = "WjHeCvm0"
+version = "BktHjldX"

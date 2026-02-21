@@ -1,0 +1,10 @@
+install_mods.sh
+install_modrinth.sh
+sync.sh
+sync.bat
+update-mods.bat
+claude.bat
+CLAUDE.md
+.gitignore
+.git
+README.md

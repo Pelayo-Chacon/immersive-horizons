@@ -1,0 +1,16 @@
+name = "Immersive Horizons"
+author = "Pelayo-Chacon"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dd0665ac6ad2852bed13d75fd85106364333494253cb259509a8affc0d670b6f"
+
+[versions]
+fabric = "0.18.4"
+minecraft = "1.21.1"
+
+[options]
+acceptable-game-versions = ["1.21"]

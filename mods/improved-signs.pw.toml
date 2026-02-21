@@ -1,0 +1,13 @@
+name = "Improved Signs"
+filename = "improvedsigns-1.4.2+mc1.21.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/tEcCNQe7/versions/yrJhnvQh/improvedsigns-1.4.2%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "e0f018f8206c002f6cf9c4a347dc88548958141646dd1f15d1959db0e54d219aa48b57707c4712938b3c925858b23e2d8e2e6015baec06c544cd41be80ba2f5f"
+
+[update]
+[update.modrinth]
+mod-id = "tEcCNQe7"
+version = "yrJhnvQh"

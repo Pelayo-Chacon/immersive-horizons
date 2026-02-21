@@ -1,0 +1,17 @@
+# Packwiz cache
+.packwiz/
+
+# Local scripts (not needed in repo)
+install_mods.sh
+install_modrinth.sh
+sync.sh
+sync.bat
+update-mods.bat
+claude.bat
+CLAUDE.md
+
+# OS files
+desktop.ini
+Thumbs.db
+.DS_Store
+*.stackdump

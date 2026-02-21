@@ -1,0 +1,13 @@
+name = "Multitool"
+filename = "multitool-v4.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/boh1JJow/versions/x51u46OF/multitool-v4.2.2.jar"
+hash-format = "sha512"
+hash = "bacee4cac6e4d6d85b4c3b50f289c5b88a1cef20af23d888b3955a3d71468e1cf2ef15b2bbd1b5be1ff0144c60afe2822941b8208cfcdb7dc47c00a36190851c"
+
+[update]
+[update.modrinth]
+mod-id = "boh1JJow"
+version = "x51u46OF"
