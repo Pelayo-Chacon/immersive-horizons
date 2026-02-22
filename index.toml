@@ -802,7 +802,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-highway-1.21.1-1.0.0.jar"
-hash = "27d2ad51f5eec2c4b98798af87f2e95d18337f7c2f3d3ed4dedd24f767538167"
+hash = "5b2e1cb5dfaefc4bc85345009d69a44b34f9696d04c42f8289f5b74998e23082"
 
 [[files]]
 file = "mods/jade.pw.toml"
@@ -1102,7 +1102,7 @@ metafile = true
 
 [[files]]
 file = "mods/simpletransport-1.3.0.jar"
-hash = "c906d702a189c93fc147cc1498e59fe602eb53696ee41cc707218f293f2fc8a5"
+hash = "10ac26ed45a893c88ae338aef848c695221307b032cb8911f94c85d5ab518e86"
 
 [[files]]
 file = "mods/small-ships.pw.toml"
@@ -1196,7 +1196,7 @@ metafile = true
 
 [[files]]
 file = "mods/workers-1.21.1-1.0.0.jar"
-hash = "7d5455d6a8f133c181ed9558096314bddd5d7705a215712fd713668aa1bb1a56"
+hash = "da621dcc39023e20542c1e25ed6686f9eada33020abe6247b6f6b94524111767"
 
 [[files]]
 file = "mods/worldweaver.pw.toml"
