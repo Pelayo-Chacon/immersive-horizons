@@ -149,6 +149,10 @@ file = "config/cutthrough-client.toml"
 hash = "16bc1f998738810cae793b1dc272122dde8b246bffa408f227357803e16ba692"
 
 [[files]]
+file = "config/disenchanting_table-client.toml"
+hash = "8318558cf0af9a09bfba4ca4bd2a8213e5bbab9886e4807ef739c9d693ec505f"
+
+[[files]]
 file = "config/emi.css"
 hash = "6a7cae69cc98717d699fcca45a62a9a6d327b922cf51f2ce44da2025076362eb"
 
@@ -242,11 +246,11 @@ hash = "5754114a0a663b321793a61f741bafa70c2a6dd649657260cdc096600763ad94"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "b24722a4372e86bb4fc3975c85c911c279d6bdd3d9c76565ef3f4ed2c89d33c4"
+hash = "c16c79d7bcb5ec297d5fb67f2b43a83aabe73086d01a93d72c782389efece5f8"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "eb1c670c6386de6f8550e06cbb8d8491158e5827c62ee2f65a94c7a468234ee2"
+hash = "cc91ec8a6abcedabade76b0ff7447d43e55dcd790944c6960ac9c7513eebb800"
 
 [[files]]
 file = "config/kleeslabs-common.toml"
@@ -266,7 +270,7 @@ hash = "3de064e7729393633687c012acf8b5dfd241d79215f3a1a652f02bed3947f024"
 
 [[files]]
 file = "config/mcda/mcda_enable_armors.json5"
-hash = "35095015c1332d7620072a24618799b61b93f0c04d3ffa604eebf4400912e322"
+hash = "7b2bf77623f43d76c108ba7b56430211001bf74f0adfc0bbf7027835dfee5727"
 
 [[files]]
 file = "config/mcda/mcda_enchant_and_effect_registry.json5"
@@ -301,6 +305,10 @@ file = "config/mods-command.conf"
 hash = "2edde6c47965afca9959f0fd2ee188d4ff96756cba5bbed37e9e21d055350108"
 
 [[files]]
+file = "config/monolib-common.toml"
+hash = "4810ae3ea7fee7a660b2beced37c6ecbc0d94427766dfa298e6ae6d36dd130e7"
+
+[[files]]
 file = "config/moonlight-client.json"
 hash = "468730b66703fdbae23f71ee15a9d880f2a79ff8fe67abda746dcbf10f2f06ab"
 
@@ -323,6 +331,10 @@ hash = "a6a872fbce46949e96a433d5a088084d77c30e388b6da1542ffd8b773e682b4c"
 [[files]]
 file = "config/notenoughanimations.json"
 hash = "564ba5619c468f07473450aabda417178e024556519a4a6cb420402c1ca16943"
+
+[[files]]
+file = "config/oritech-config.json5"
+hash = "3a280ef18d7751e0c5ad5714e0453de2fc98615c37ca84e485070fa076bb6022"
 
 [[files]]
 file = "config/resourceful-config-web.json"
@@ -389,8 +401,12 @@ file = "config/visuality.json"
 hash = "1561b99ae57ede995dfb64a91ac5b53dd877f57e4a8f1859526da84511bcec07"
 
 [[files]]
+file = "config/workers.json"
+hash = "dd3d7c8c5cfb73fa1a2a28edbe9072e9caead504be56e25e32599e033e9ad5a5"
+
+[[files]]
 file = "config/wover/cached.json"
-hash = "f34aeceab55585453fbfcafffcc474aecd137e920b1ddce28eb455b930565a84"
+hash = "320a3b4548a2db83aaa54ea6b846701bcac2c71a59502212ef597d9785c86478"
 
 [[files]]
 file = "config/wover/client.json"
@@ -802,7 +818,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-highway-1.21.1-1.0.0.jar"
-hash = "a5c263329a3ad49a1f3eea4ca7caabe37b9346bec7bbb2e05228ef5fba8f275e"
+hash = "5883c2d3151cbaf97628bf33474028dde5bbfd8405bbde59b8f6d53c7dd8c64f"
 
 [[files]]
 file = "mods/jade.pw.toml"
@@ -1196,7 +1212,7 @@ metafile = true
 
 [[files]]
 file = "mods/workers-1.21.1-1.0.0.jar"
-hash = "bf6e1a899afc2e75523172a5519ac5997749e3353558cd48b84dfdbca8f2469f"
+hash = "16ba766d490398d70060d201d4212bfc265e2424ee93fd7b9c5dca8a8861b0e1"
 
 [[files]]
 file = "mods/worldweaver.pw.toml"
