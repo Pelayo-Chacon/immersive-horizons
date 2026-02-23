@@ -153,6 +153,10 @@ file = "config/disenchanting_table-client.toml"
 hash = "8318558cf0af9a09bfba4ca4bd2a8213e5bbab9886e4807ef739c9d693ec505f"
 
 [[files]]
+file = "config/disenchanting_table-server.toml"
+hash = "3f7c96e71027f95ff08b71f84d534a7e1d07d21a4c4cfad481343bd2b29bd118"
+
+[[files]]
 file = "config/emi.css"
 hash = "6a7cae69cc98717d699fcca45a62a9a6d327b922cf51f2ce44da2025076362eb"
 
@@ -270,7 +274,7 @@ hash = "3de064e7729393633687c012acf8b5dfd241d79215f3a1a652f02bed3947f024"
 
 [[files]]
 file = "config/mcda/mcda_enable_armors.json5"
-hash = "7b2bf77623f43d76c108ba7b56430211001bf74f0adfc0bbf7027835dfee5727"
+hash = "6ff1251b152be74fd9b80120da0f0a8df900d1ca0e028a1c4ccc3ef50d7b2e08"
 
 [[files]]
 file = "config/mcda/mcda_enchant_and_effect_registry.json5"
@@ -818,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-highway-1.21.1-1.0.0.jar"
-hash = "5883c2d3151cbaf97628bf33474028dde5bbfd8405bbde59b8f6d53c7dd8c64f"
+hash = "c59cc84d50549c3f47597a2bb8f2e7f9bd0264c5f5983e7e9d4d4ac4b133668d"
 
 [[files]]
 file = "mods/jade.pw.toml"
