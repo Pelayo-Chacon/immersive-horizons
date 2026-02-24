@@ -822,7 +822,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-highway-1.21.1-1.0.0.jar"
-hash = "c59cc84d50549c3f47597a2bb8f2e7f9bd0264c5f5983e7e9d4d4ac4b133668d"
+hash = "2c51053b62ff84d8ef3668b755a723a30c346053bb2b02452db9baa4e78db212"
 
 [[files]]
 file = "mods/jade.pw.toml"
@@ -1216,7 +1216,7 @@ metafile = true
 
 [[files]]
 file = "mods/workers-1.21.1-1.0.0.jar"
-hash = "16ba766d490398d70060d201d4212bfc265e2424ee93fd7b9c5dca8a8861b0e1"
+hash = "616175b071dbb4ff27f4656db1f76f1e3c63320135bb92d404dd6ab55cce8317"
 
 [[files]]
 file = "mods/worldweaver.pw.toml"
@@ -1281,6 +1281,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-witch-huts.pw.toml"
 hash = "1bd0ba1128e6ae3f926298c2ffe33180cca75362fae3bd92146d43977297f01c"
+metafile = true
+
+[[files]]
+file = "mods/zombie-proof-doors-by-meenimc.pw.toml"
+hash = "30570d75bf24363dca9df453f4ce15547ac7c8340f569613ff5aeb3c60142919"
 metafile = true
 
 [[files]]

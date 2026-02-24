@@ -1,0 +1,13 @@
+name = "Zombie Proof Doors"
+filename = "zombie-proof-doors-by-meenimc-v1.48.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/6L6nWg5X/versions/p6KLUNf5/zombie-proof-doors-by-meenimc-v1.48.1.jar"
+hash-format = "sha512"
+hash = "3b28e75a5b9ab79891ad4ad8793346676ae46e5a701c7562fc1608f86780e43398f861afc4d1af172384b6c4a2a2011eb816f73c9020f3d51c01236fd54ac7f2"
+
+[update]
+[update.modrinth]
+mod-id = "6L6nWg5X"
+version = "p6KLUNf5"
