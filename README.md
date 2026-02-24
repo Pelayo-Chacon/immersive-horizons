@@ -133,6 +133,7 @@ A curated Minecraft modpack focused on immersive gameplay, exploration, building
 | [Underwater Enchanting](https://modrinth.com/mod/e8JtTY4h) | Use enchantment tables under water with full bookshelf levels |
 | [Village Bell Recipe](https://modrinth.com/mod/u692zai1) | Makes the village bell craftable |
 | [Villager Workers](https://modrinth.com/mod/villager-workers) | Employ villagers to perform automated work tasks |
+| [Zombie Proof Doors](https://modrinth.com/datapack/zombie-proof-doors-by-meenimc) | Prevents all zombie types from breaking doors on Hard/Hardcore difficulty |
 
 ### World Generation (Server-Side)
 
@@ -244,4 +245,4 @@ A curated Minecraft modpack focused on immersive gameplay, exploration, building
 |------|-------|-------------|
 | Both | 82 | Installed on clients and the server |
 | Client only | 26 | Installed on clients only (visuals, HUD, rendering) |
-| Server only | 44 | Installed on the server only (worldgen, performance, utilities) |
+| Server only | 45 | Installed on the server only (worldgen, performance, utilities) |
