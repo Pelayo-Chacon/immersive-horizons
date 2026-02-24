@@ -274,7 +274,7 @@ hash = "3de064e7729393633687c012acf8b5dfd241d79215f3a1a652f02bed3947f024"
 
 [[files]]
 file = "config/mcda/mcda_enable_armors.json5"
-hash = "6ff1251b152be74fd9b80120da0f0a8df900d1ca0e028a1c4ccc3ef50d7b2e08"
+hash = "1394e82b7ff4f8af3f838fa666df958e307f879d2085ecd64e4c4eaed2abac48"
 
 [[files]]
 file = "config/mcda/mcda_enchant_and_effect_registry.json5"
