@@ -274,7 +274,7 @@ hash = "3de064e7729393633687c012acf8b5dfd241d79215f3a1a652f02bed3947f024"
 
 [[files]]
 file = "config/mcda/mcda_enable_armors.json5"
-hash = "6ff1251b152be74fd9b80120da0f0a8df900d1ca0e028a1c4ccc3ef50d7b2e08"
+hash = "97b792bebafdc904018b8b1946c544deeaf30c423e617102f6e0a72d319116f1"
 
 [[files]]
 file = "config/mcda/mcda_enchant_and_effect_registry.json5"
@@ -791,6 +791,11 @@ hash = "72ff03454352e42aca8b03c5844522894d74244cdd0a32763591164d23ee265c"
 metafile = true
 
 [[files]]
+file = "mods/immersive-machinery.pw.toml"
+hash = "4f7727c49e623864c1297e4c7a16eefb33893119865b7e96787da9c5119c8e8b"
+metafile = true
+
+[[files]]
 file = "mods/immersive-optimization.pw.toml"
 hash = "83c01f842811ae4f7bc906f317569358d82ed7558f9e43b41ecc963d9fb48815"
 metafile = true
@@ -939,7 +944,7 @@ hash = "5232d1aea0c42c560cd998e26177ec069752378ec82ae1036641881786ec9048"
 
 [[files]]
 file = "mods/mcdw-fabric-10.0.0+mc1.21.1.jar"
-hash = "06eb97cec45aac289b0359e26206c6342a900a2ad49e5ce82079419be11a3c31"
+hash = "1ceb9cd8a15f97356c0b25da01e5a3f9aab6b6316f83aab53024cde9a92e85d0"
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"

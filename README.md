@@ -61,6 +61,7 @@ A curated Minecraft modpack focused on immersive gameplay, exploration, building
 | [Cammie's Minecart Tweaks](https://modrinth.com/mod/D2gIe1ZY) | Makes minecarts more viable as a form of transportation |
 | [Conveyor Belts](https://modrinth.com/mod/WjHeCvm0) | Simple conveyor belts |
 | [Immersive Aircraft](https://modrinth.com/mod/x3HZvrj6) | Rustic aircraft to travel, transport, and explore |
+| [Immersive Machinery](https://modrinth.com/mod/kGP3J2TW) | Rustic machinery to transport, mine, and automate — submarine, tunnel digger, farm drone, and more |
 | [Iron Chests](https://modrinth.com/mod/cyberanner-ironchest) | Tiered upgradeable chests with progressively larger storage |
 | [Linkart Refabricated](https://modrinth.com/mod/XcifMBeU) | Link carts together via chains |
 | [Move Boats](https://modrinth.com/mod/7qPEjpyt) | Pick up and move boats without breaking them by holding right-click |
@@ -243,6 +244,6 @@ A curated Minecraft modpack focused on immersive gameplay, exploration, building
 
 | Side | Count | Description |
 |------|-------|-------------|
-| Both | 82 | Installed on clients and the server |
+| Both | 83 | Installed on clients and the server |
 | Client only | 26 | Installed on clients only (visuals, HUD, rendering) |
 | Server only | 45 | Installed on the server only (worldgen, performance, utilities) |
