@@ -274,7 +274,7 @@ hash = "3de064e7729393633687c012acf8b5dfd241d79215f3a1a652f02bed3947f024"
 
 [[files]]
 file = "config/mcda/mcda_enable_armors.json5"
-hash = "97b792bebafdc904018b8b1946c544deeaf30c423e617102f6e0a72d319116f1"
+hash = "25b52d4df9590c6c7826e7a645078f8ab93fa441d73002176c004c538b82d0ce"
 
 [[files]]
 file = "config/mcda/mcda_enchant_and_effect_registry.json5"
@@ -423,6 +423,10 @@ hash = "50e9b9c108e2e40a33fa61248cedb32737a58b5bb828a1bee14599baed859507"
 [[files]]
 file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+
+[[files]]
+file = "iron-highway-1.21.1-1.0.0.jar"
+hash = "6ee7abf309eaa1ab51840e42d121dbdc410112cae7d8fc4a713c80adc532a5fe"
 
 [[files]]
 file = "mods/IronChests-2.0.4.jar"
@@ -827,7 +831,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-highway-1.21.1-1.0.0.jar"
-hash = "b06112202adec1db7a65a34be9bfb4171588c24553467aa3e69f325bf7f614ce"
+hash = "6ee7abf309eaa1ab51840e42d121dbdc410112cae7d8fc4a713c80adc532a5fe"
 
 [[files]]
 file = "mods/jade.pw.toml"
@@ -1292,6 +1296,18 @@ metafile = true
 file = "mods/zombie-proof-doors-by-meenimc.pw.toml"
 hash = "30570d75bf24363dca9df453f4ce15547ac7c8340f569613ff5aeb3c60142919"
 metafile = true
+
+[[files]]
+file = "net/minecraft/world/entity/vehicle/AbstractMinecart.java"
+hash = "97254100edc923ee16bfb4501fb4eb2e313c2adaa2b8335268be782d7e8a61cd"
+
+[[files]]
+file = "net/minecraft/world/level/block/BaseRailBlock.java"
+hash = "b94a3eb27c9bf237c79396ec2783f703092632c12ce943d26f9398dce87daba8"
+
+[[files]]
+file = "net/minecraft/world/level/block/PoweredRailBlock.java"
+hash = "76618720afbed1619eba91a94af12821eee5b2b3ed7eb166a0576eba8a623ecb"
 
 [[files]]
 file = "resourcepacks/moonsu-better-gui-create-style-for-travelers-backpack.pw.toml"
