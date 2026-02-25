@@ -274,7 +274,7 @@ hash = "3de064e7729393633687c012acf8b5dfd241d79215f3a1a652f02bed3947f024"
 
 [[files]]
 file = "config/mcda/mcda_enable_armors.json5"
-hash = "6ff1251b152be74fd9b80120da0f0a8df900d1ca0e028a1c4ccc3ef50d7b2e08"
+hash = "97b792bebafdc904018b8b1946c544deeaf30c423e617102f6e0a72d319116f1"
 
 [[files]]
 file = "config/mcda/mcda_enchant_and_effect_registry.json5"
@@ -935,11 +935,11 @@ metafile = true
 
 [[files]]
 file = "mods/mcda-6.0.0.jar"
-hash = "39b3aaf510df0e622d4d4b7419331affd89046558af089f2e6969d4a98f27bf9"
+hash = "a3d426d67ea715c4a872e6485c359e40a8651701e6372ab186c7cb3722a29f9e"
 
 [[files]]
 file = "mods/mcdw-fabric-10.0.0+mc1.21.1.jar"
-hash = "65db0addcab7dde770b56739abbcca4722c9273fe493f7b66b09c0aa2cc37d8e"
+hash = "6c312e723fd1ed25b815c6081d6bbab3964784f0b94fc42711850afc3a4c2a88"
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
