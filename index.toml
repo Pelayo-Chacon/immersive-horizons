@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "74581caabd879f6f2f3d2465614a3bbabeac06478c5356de2c3a1799f48ca503"
+
+[[files]]
 file = "config/NoChatReports/NCR-Common.json"
 hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
 
@@ -225,6 +229,10 @@ file = "config/infinitywaterbucket.json"
 hash = "93d9fe84ca34edddabb08562e778009c025b2cdaa903c73ed6ccc6558f37a506"
 
 [[files]]
+file = "config/inventoryprofilesnext/70.44.51.175/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
 file = "config/inventoryprofilesnext/New World/villager-trading-config-v2.json"
 hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
@@ -235,6 +243,18 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3"
+
+[[files]]
+file = "config/inventoryprofilesnext/zobgoblin.pchacon.org/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "config/inventoryprofilesnext/zobgoblin.playit.plus/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "config/iron_highway.json"
+hash = "26ad690b054dd6b49234586d4410dcf022a558c1020631bd390de9f53d7e6d1e"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -274,7 +294,7 @@ hash = "3de064e7729393633687c012acf8b5dfd241d79215f3a1a652f02bed3947f024"
 
 [[files]]
 file = "config/mcda/mcda_enable_armors.json5"
-hash = "25b52d4df9590c6c7826e7a645078f8ab93fa441d73002176c004c538b82d0ce"
+hash = "6d131968c5c9a374ba5cd1d6120711a70a0119c0f45fade63b855d7a89a2156e"
 
 [[files]]
 file = "config/mcda/mcda_enchant_and_effect_registry.json5"
@@ -831,7 +851,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-highway-1.21.1-1.0.0.jar"
-hash = "6ee7abf309eaa1ab51840e42d121dbdc410112cae7d8fc4a713c80adc532a5fe"
+hash = "4c8f4c0f77a3063a4643cd2810c6e849981c15e2c2927117e55f61e8d7d0ce58"
 
 [[files]]
 file = "mods/jade.pw.toml"
