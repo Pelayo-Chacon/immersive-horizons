@@ -294,7 +294,7 @@ hash = "3de064e7729393633687c012acf8b5dfd241d79215f3a1a652f02bed3947f024"
 
 [[files]]
 file = "config/mcda/mcda_enable_armors.json5"
-hash = "6d131968c5c9a374ba5cd1d6120711a70a0119c0f45fade63b855d7a89a2156e"
+hash = "f1855639fd70089a536b7a6eb63a9ea69f8e423182c8896c4b0d88602995af2d"
 
 [[files]]
 file = "config/mcda/mcda_enchant_and_effect_registry.json5"
@@ -430,7 +430,7 @@ hash = "dd3d7c8c5cfb73fa1a2a28edbe9072e9caead504be56e25e32599e033e9ad5a5"
 
 [[files]]
 file = "config/wover/cached.json"
-hash = "320a3b4548a2db83aaa54ea6b846701bcac2c71a59502212ef597d9785c86478"
+hash = "195ea036f97de37bceadef5526a51d7afdc9fb91c962ae708b801df5149d5771"
 
 [[files]]
 file = "config/wover/client.json"
@@ -851,7 +851,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-highway-1.21.1-1.0.0.jar"
-hash = "4c8f4c0f77a3063a4643cd2810c6e849981c15e2c2927117e55f61e8d7d0ce58"
+hash = "d13f83b60ea6c349fdc87c46595136129cfebec27b2b514acda4f32fe1e1ece3"
 
 [[files]]
 file = "mods/jade.pw.toml"
