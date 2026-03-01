@@ -245,6 +245,10 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "a44027e5b5bf7106a7657a84978cbdb46b0d55ac9db0cf77636d4670c4ebfdc3"
 
 [[files]]
+file = "config/inventoryprofilesnext/zobgoblin.pchacon.org/prev-villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
 file = "config/inventoryprofilesnext/zobgoblin.pchacon.org/villager-trading-config-v2.json"
 hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
@@ -294,7 +298,7 @@ hash = "3de064e7729393633687c012acf8b5dfd241d79215f3a1a652f02bed3947f024"
 
 [[files]]
 file = "config/mcda/mcda_enable_armors.json5"
-hash = "d5ec2a2c230789be54dde3deb7d447c051b43719613e2975a5d27768867b47bf"
+hash = "51573bca135e7c8940c64ff600a09845cfb92ccacf6faabe4c5a4a13c6fee07c"
 
 [[files]]
 file = "config/mcda/mcda_enchant_and_effect_registry.json5"
@@ -851,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-highway-1.21.1-1.0.0.jar"
-hash = "88d32809034051eb2f6613bf872f0b36bd8a27c1d3c9da5bbf3450798a6eac43"
+hash = "0c7fdb46b32c415b91754edfb1795d3f70dcb1036eeb51dc7b1dc28f7fa4b0f5"
 
 [[files]]
 file = "mods/jade.pw.toml"
