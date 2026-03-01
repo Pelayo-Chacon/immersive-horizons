@@ -298,7 +298,7 @@ hash = "3de064e7729393633687c012acf8b5dfd241d79215f3a1a652f02bed3947f024"
 
 [[files]]
 file = "config/mcda/mcda_enable_armors.json5"
-hash = "51573bca135e7c8940c64ff600a09845cfb92ccacf6faabe4c5a4a13c6fee07c"
+hash = "9158ed3b70f99aadcc8041dcc4bce1e3214cd758338ddccba81632acc265a396"
 
 [[files]]
 file = "config/mcda/mcda_enchant_and_effect_registry.json5"
@@ -855,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-highway-1.21.1-1.0.0.jar"
-hash = "e04f83e42081381875fd0e62eb34d3716696aa95981c4d91cf17d4bc07780dab"
+hash = "d34aa0641009351293f4dabcade7015c379a7c51505a543411566e7a98ddfa72"
 
 [[files]]
 file = "mods/jade.pw.toml"
