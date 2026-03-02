@@ -298,7 +298,7 @@ hash = "3de064e7729393633687c012acf8b5dfd241d79215f3a1a652f02bed3947f024"
 
 [[files]]
 file = "config/mcda/mcda_enable_armors.json5"
-hash = "cc6405bfc671358641875c3deeedd71d1071065a1093b35c97ce7e880b93881c"
+hash = "f1855639fd70089a536b7a6eb63a9ea69f8e423182c8896c4b0d88602995af2d"
 
 [[files]]
 file = "config/mcda/mcda_enchant_and_effect_registry.json5"
@@ -1110,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/portcullis-1.21.1-1.0.0.jar"
-hash = "742d42fa3101d7bed5d928dc8388160fc60be6813060db5a7d9674e0d6ae2620"
+hash = "d608303d9cebcfed53f764ba4ede8fea7f112378a75db7e762237ba2381d47ed"
 
 [[files]]
 file = "mods/pretty-beaches.pw.toml"
