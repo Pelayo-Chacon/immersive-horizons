@@ -322,7 +322,7 @@ hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
 [[files]]
 file = "config/minecarttweaks.jsonc"
-hash = "179741f07326772349b833a13831aa9c5c8af7784b4bdbd3b2c2635b2696f180"
+hash = "e25e692d4f13c499d055d312f16f15ccc739155b08d7cff4d404c80f0dd8c450"
 
 [[files]]
 file = "config/modmenu.json"
@@ -450,7 +450,7 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "iron-highway-1.21.1-1.0.0.jar"
-hash = "fd84150f912a513a3004845934366a004288d15bcd7232b3e56ebb48efd4c1fc"
+hash = "d729a01dfd411e8c9a4143819be2e0336a62a7ad2c693bda095e98db73e5d47e"
 
 [[files]]
 file = "mods/IronChests-2.0.4.jar"
@@ -855,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-highway-1.21.1-1.0.0.jar"
-hash = "fd84150f912a513a3004845934366a004288d15bcd7232b3e56ebb48efd4c1fc"
+hash = "d729a01dfd411e8c9a4143819be2e0336a62a7ad2c693bda095e98db73e5d47e"
 
 [[files]]
 file = "mods/jade.pw.toml"
