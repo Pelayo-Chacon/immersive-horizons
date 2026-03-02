@@ -1110,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/portcullis-1.21.1-1.0.0.jar"
-hash = "d608303d9cebcfed53f764ba4ede8fea7f112378a75db7e762237ba2381d47ed"
+hash = "c94aae2e142a80fb0a6d8b13e5fee1fd75cd843c50bea9412b9d76f877922680"
 
 [[files]]
 file = "mods/pretty-beaches.pw.toml"
