@@ -1110,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/portcullis-1.21.1-1.0.0.jar"
-hash = "2cfeec322ffc738c4f1148e09da0b87b83fd114d0055e5a10f14af29b841b1ec"
+hash = "d0672c362551a3574e71d83badbb575a2d500d53178ab2a6efd05ae34653b9b2"
 
 [[files]]
 file = "mods/pretty-beaches.pw.toml"
@@ -1339,7 +1339,7 @@ hash = "76618720afbed1619eba91a94af12821eee5b2b3ed7eb166a0576eba8a623ecb"
 
 [[files]]
 file = "portcullis-1.21.1-1.0.0.jar"
-hash = "2cfeec322ffc738c4f1148e09da0b87b83fd114d0055e5a10f14af29b841b1ec"
+hash = "d0672c362551a3574e71d83badbb575a2d500d53178ab2a6efd05ae34653b9b2"
 
 [[files]]
 file = "resourcepacks/moonsu-better-gui-create-style-for-travelers-backpack.pw.toml"
