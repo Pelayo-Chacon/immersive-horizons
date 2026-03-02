@@ -9,7 +9,7 @@
     // Type: Double
     "furnaceMinecartSpeed": 20.0,
     // Type: Double
-    "otherMinecartSpeed": 8.0,
+    "otherMinecartSpeed": 16.0,
     // Type: Float
     "minecartDamage": 20.0,
     // Type: Integer
