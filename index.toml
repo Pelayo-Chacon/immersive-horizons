@@ -855,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-highway-1.21.1-1.0.0.jar"
-hash = "f50734a400ee74a1255a81139c9402424807723b7deaf3a9cca594fe9c12e9e3"
+hash = "acba6581a4381a26dbca5df03bb952780aa36848e2ee0fa6dd9ca456a873f9a1"
 
 [[files]]
 file = "mods/jade.pw.toml"
