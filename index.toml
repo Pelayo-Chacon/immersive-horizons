@@ -298,7 +298,7 @@ hash = "3de064e7729393633687c012acf8b5dfd241d79215f3a1a652f02bed3947f024"
 
 [[files]]
 file = "config/mcda/mcda_enable_armors.json5"
-hash = "8ecd6ebca1c512f679e1242641e62db8a8c2a09c8c437e85dfbc5b941bf7de97"
+hash = "4f136f4a5be994ec9728db9412527e97b79cbaae64a352a997524089df416dc0"
 
 [[files]]
 file = "config/mcda/mcda_enchant_and_effect_registry.json5"
@@ -1110,7 +1110,7 @@ metafile = true
 
 [[files]]
 file = "mods/portcullis-1.21.1-1.0.0.jar"
-hash = "08eb731883e96f355c016da3d0c0d677e1544a5156675ac1f9b7f9fcbb8ddefd"
+hash = "978f6378814901f60a00575563bf784fe1deb9a15f4f6e5db07f162e53c139db"
 
 [[files]]
 file = "mods/pretty-beaches.pw.toml"
@@ -1339,7 +1339,7 @@ hash = "76618720afbed1619eba91a94af12821eee5b2b3ed7eb166a0576eba8a623ecb"
 
 [[files]]
 file = "portcullis-1.21.1-1.0.0.jar"
-hash = "08eb731883e96f355c016da3d0c0d677e1544a5156675ac1f9b7f9fcbb8ddefd"
+hash = "978f6378814901f60a00575563bf784fe1deb9a15f4f6e5db07f162e53c139db"
 
 [[files]]
 file = "resourcepacks/moonsu-better-gui-create-style-for-travelers-backpack.pw.toml"
