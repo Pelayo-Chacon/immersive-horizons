@@ -298,7 +298,7 @@ hash = "3de064e7729393633687c012acf8b5dfd241d79215f3a1a652f02bed3947f024"
 
 [[files]]
 file = "config/mcda/mcda_enable_armors.json5"
-hash = "64e0cdffae257d511d3466704f2507a97b97d9892c711401ec69f95d047a7b66"
+hash = "09b112b3cd44c83fe78929e0d1d5fe5b8aefcd669971c92b879279ae9bba91b1"
 
 [[files]]
 file = "config/mcda/mcda_enchant_and_effect_registry.json5"
@@ -450,7 +450,7 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "iron-highway-1.21.1-1.0.0.jar"
-hash = "7aed13b7dc599d24fce6c3abdd05b9438a4ff952a767fa744b255cc3f2a22cdb"
+hash = "29d3ad3eaaefcefc3106330abffccf9c96875c6cdc88e0779c0aecd7dc4f5bbf"
 
 [[files]]
 file = "mods/IronChests-2.0.4.jar"
@@ -855,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-highway-1.21.1-1.0.0.jar"
-hash = "7aed13b7dc599d24fce6c3abdd05b9438a4ff952a767fa744b255cc3f2a22cdb"
+hash = "29d3ad3eaaefcefc3106330abffccf9c96875c6cdc88e0779c0aecd7dc4f5bbf"
 
 [[files]]
 file = "mods/jade.pw.toml"
