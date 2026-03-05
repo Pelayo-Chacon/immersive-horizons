@@ -450,7 +450,7 @@ hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
 file = "iron-highway-1.21.1-1.0.0.jar"
-hash = "29d3ad3eaaefcefc3106330abffccf9c96875c6cdc88e0779c0aecd7dc4f5bbf"
+hash = "d5474b97fa64421b47a5a49d25eb6d15fcce5dd998051533242b7d5f23b25e7a"
 
 [[files]]
 file = "mods/IronChests-2.0.4.jar"
@@ -855,7 +855,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-highway-1.21.1-1.0.0.jar"
-hash = "29d3ad3eaaefcefc3106330abffccf9c96875c6cdc88e0779c0aecd7dc4f5bbf"
+hash = "d5474b97fa64421b47a5a49d25eb6d15fcce5dd998051533242b7d5f23b25e7a"
 
 [[files]]
 file = "mods/jade.pw.toml"
