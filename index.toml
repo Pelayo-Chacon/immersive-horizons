@@ -482,6 +482,11 @@ hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
 metafile = true
 
 [[files]]
+file = "mods/armor-stand-arms.pw.toml"
+hash = "0da2620f9f2924df98e74928ed92f051b6250632656752429074ecbcad2ee808"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "93f989575eec26f333d4253f1af961983ba4d5179e1c3237b643836b40614a43"
 metafile = true
@@ -624,6 +629,11 @@ file = "mods/crafting+-1.21.8.0.jar"
 hash = "a9181cb55b6263ef1a91fb88bae0f6951144c0bb3aad71dd3d3c41c35317aae0"
 
 [[files]]
+file = "mods/crafting-enchanted-golden-apples.pw.toml"
+hash = "c8109e943d83370d77f135d1158252865e85ba3f0af41d1f5a63826487eb3b99"
+metafile = true
+
+[[files]]
 file = "mods/crawl.pw.toml"
 hash = "895602d01d010ba10c9662f61d382393cdc270ba02d7cd8fb0d95f5fc7768972"
 metafile = true
@@ -681,6 +691,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "582070fa54fe1743a837c0351eee7ea4a79080e647d5438656d372ae9433b272"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "3f79aadc20ee02e53d1810892f0cd9e037575b1a6cf26505a3a514c24f2a55c7"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Crafting Enchanted Golden Apples"
+filename = "crafting-enchanted-golden-apple-fabric-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uxU6OoQm/versions/CCPk7EGn/crafting-enchanted-golden-apple-fabric-1.0.3.jar"
+hash-format = "sha512"
+hash = "cf7f7e555e550c3a21bfa3426b5789cfd5435dea45e81608264fe4518a3354de58b1272cb77c96c397885bc62879eeaa31ac97ac276107b54d87b1a6c8302ff7"
+
+[update]
+[update.modrinth]
+mod-id = "uxU6OoQm"
+version = "CCPk7EGn"
