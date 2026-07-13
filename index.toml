@@ -449,10 +449,6 @@ file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
 
 [[files]]
-file = "iron-highway.jar"
-hash = "dc98557933beefd413ee59589def1de7a12bc656bfdec1637e1cc4f7600e9080"
-
-[[files]]
 file = "mods/IronChests-2.0.4.jar"
 hash = "1829b11371aa462bd3f5f7416fd5460fd2cd8642631921ae17bcd713a3476f54"
 
@@ -1339,22 +1335,6 @@ metafile = true
 file = "mods/zombie-proof-doors-by-meenimc.pw.toml"
 hash = "30570d75bf24363dca9df453f4ce15547ac7c8340f569613ff5aeb3c60142919"
 metafile = true
-
-[[files]]
-file = "net/minecraft/world/entity/vehicle/AbstractMinecart.java"
-hash = "97254100edc923ee16bfb4501fb4eb2e313c2adaa2b8335268be782d7e8a61cd"
-
-[[files]]
-file = "net/minecraft/world/level/block/BaseRailBlock.java"
-hash = "b94a3eb27c9bf237c79396ec2783f703092632c12ce943d26f9398dce87daba8"
-
-[[files]]
-file = "net/minecraft/world/level/block/PoweredRailBlock.java"
-hash = "76618720afbed1619eba91a94af12821eee5b2b3ed7eb166a0576eba8a623ecb"
-
-[[files]]
-file = "portcullis-1.21.1-1.0.0.jar"
-hash = "89651ec8f3425b29d1f03ebe36a6be98a56061baa27efff3ddb9ae94af2a27d2"
 
 [[files]]
 file = "resourcepacks/moonsu-better-gui-create-style-for-travelers-backpack.pw.toml"
