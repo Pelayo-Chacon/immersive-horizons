@@ -913,8 +913,8 @@ hash = "183d7866328971a71ef6948ef832afc4a43d6b807fdcafe682bc0265d5d651fa"
 metafile = true
 
 [[files]]
-file = "mods/lightest-lamps-5.0.0.jar"
-hash = "ea645149023846cbd9c83dd7d060c524ebad48f9958b9258b5fa0d1c4ec3eb70"
+file = "mods/lightest-lamps-5.0.2.jar"
+hash = "779db7a45e561106610adf4430e3b50589b0a8b6303845e32270e2688dc077d5"
 
 [[files]]
 file = "mods/linkart-refabricated.pw.toml"
