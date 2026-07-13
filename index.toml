@@ -978,12 +978,12 @@ hash = "6803e0debba4fb27c735ccb139d26ae4c7744b8a7d2ac500d4f56b1d411faeea"
 metafile = true
 
 [[files]]
-file = "mods/mcda-6.0.3.jar"
-hash = "ec68bc9b14b3714fd46b220eabf2647901594199558ff173ddc689cb34002047"
+file = "mods/mcda-6.0.4.jar"
+hash = "e7de2c5651c17dda546a12f0c0da53c976814d0b6f1aea5fe94a6c01206dc0c1"
 
 [[files]]
-file = "mods/mcdw-fabric-10.0.4+mc1.21.1.jar"
-hash = "27653f6eefd1a3e90db024e9cde854cec293b602d7500fbd0166c194bf9fe4a3"
+file = "mods/mcdw-fabric-10.0.5+mc1.21.1.jar"
+hash = "dc60553e9ddd4856ba5ad0b22aef2d3f0ab0d901a550f5ae4c14656ce1003d31"
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
@@ -1120,8 +1120,8 @@ hash = "f89967ea9150d6e5371057dc31fc8b8180c79808410ee6318088fcf78a16f58f"
 metafile = true
 
 [[files]]
-file = "mods/portcullis-1.21.1-1.0.3.jar"
-hash = "a81f4b6d7cd8ded8c81a98c1ff269cbc3ad37957af02560466584e35110a3b3d"
+file = "mods/portcullis-1.21.1-1.0.4.jar"
+hash = "b794d3c9ef745efe04196c850a18b8f583cec9cebf6aa7455d2ab7e3d86ae3da"
 
 [[files]]
 file = "mods/pretty-beaches.pw.toml"
@@ -1169,8 +1169,8 @@ hash = "5814858300c925c1b27fa1af44c0f04f51636f1d09284d857b3c3704d99c6412"
 metafile = true
 
 [[files]]
-file = "mods/simpletransport-1.3.2.jar"
-hash = "b468c39f1ac4d12e8c4a0b71e063a9f33c2fa6dcac59886be142ae948853631d"
+file = "mods/simpletransport-1.3.3.jar"
+hash = "21637cfa87509dc10026de136c4564bcdcfc251bc9c7e38335d509891546b3bf"
 
 [[files]]
 file = "mods/small-ships.pw.toml"
