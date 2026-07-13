@@ -1349,3 +1349,7 @@ hash = "3412b170247dde7351e0945d857e713bedf6fae05ab300aa74d06ffbde0ca07e"
 [[files]]
 file = "mods/spark-1.10.109-fabric.jar"
 hash = "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047"
+
+[[files]]
+file = "mods/ScalableLux-fabric-0.3.0-alpha.0.5-loader0184.jar"
+hash = "3ae43f759bf74756967e1ae27743210800bd64d8507bc5bcb7d8fcb2951813c1"
