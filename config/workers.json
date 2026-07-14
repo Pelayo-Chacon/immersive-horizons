@@ -1,6 +1,6 @@
 {
   "playVillagerAmbientSound": true,
-  "workersLookLikeVillagers": true,
+  "workersLookLikeVillagers": false,
   "commandScreenToggle": false,
   "ownerReceiveInfo": true,
   "workerChunkLoading": true,
