@@ -982,8 +982,8 @@ file = "mods/mcda-6.0.4.jar"
 hash = "e7de2c5651c17dda546a12f0c0da53c976814d0b6f1aea5fe94a6c01206dc0c1"
 
 [[files]]
-file = "mods/mcdw-fabric-10.0.5+mc1.21.1.jar"
-hash = "dc60553e9ddd4856ba5ad0b22aef2d3f0ab0d901a550f5ae4c14656ce1003d31"
+file = "mods/mcdw-fabric-10.0.6+mc1.21.1.jar"
+hash = "f3d0e3a4f2e5f106d881982728436e0815ba17284d0b0e7285689ac9f2d48090"
 
 [[files]]
 file = "mods/mcpitanlibarch.pw.toml"
@@ -1120,8 +1120,8 @@ hash = "f89967ea9150d6e5371057dc31fc8b8180c79808410ee6318088fcf78a16f58f"
 metafile = true
 
 [[files]]
-file = "mods/portcullis-1.21.1-1.0.4.jar"
-hash = "b794d3c9ef745efe04196c850a18b8f583cec9cebf6aa7455d2ab7e3d86ae3da"
+file = "mods/portcullis-1.21.1-1.0.5.jar"
+hash = "74b43cd58fce8e69f36b1d9476daa0c9f1a830ccb272fa8131631f2bd6aaecc6"
 
 [[files]]
 file = "mods/pretty-beaches.pw.toml"
