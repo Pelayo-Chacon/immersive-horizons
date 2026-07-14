@@ -458,7 +458,7 @@ hash = "f47aed802418ae61292da73dde032351983da66ae653c5179c4f0069e962f089"
 
 [[files]]
 file = "mods/liquid-highway-1.21.1-1.1.0.jar"
-hash = "72feae0ebd0a56cba10fa98c612142b68a5730a5a02f6ca187e443c50ff2bb8f"
+hash = "917bbc8c10af335c5b621b70ca84fefeb229bd76378e677090a42532380d1fb8"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -1272,7 +1272,7 @@ metafile = true
 
 [[files]]
 file = "mods/workers-1.21.1-1.2.0.jar"
-hash = "1474e92bdb53ec6bb58c5d409b905f2c815cac183827e6b2a6c277f1906c162c"
+hash = "d510f61c0953ab137a2bceee9f0ff543c6cc26e8ac299ce1f3f84102442562e5"
 
 [[files]]
 file = "mods/worldweaver.pw.toml"
