@@ -453,6 +453,10 @@ file = "mods/IronChests-2.0.4.jar"
 hash = "1829b11371aa462bd3f5f7416fd5460fd2cd8642631921ae17bcd713a3476f54"
 
 [[files]]
+file = "mods/recipe-fixes-1.0.0.jar"
+hash = "f47aed802418ae61292da73dde032351983da66ae653c5179c4f0069e962f089"
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "5285ba249b00d0d12a3cd1f64a5536e7618770dee31d3d240f9d4345ef69f888"
 metafile = true
@@ -866,7 +870,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-highway.jar"
-hash = "4ee5e479aeecd3c43b2a467ccd6e2b8361dedcd60bdaf7769e478aa9e9697200"
+hash = "a5ada235ce902298c72e4c85c2f2c74dcf76fbf427253ea77913d98e31be9942"
 
 [[files]]
 file = "mods/jade.pw.toml"
@@ -909,8 +913,8 @@ hash = "183d7866328971a71ef6948ef832afc4a43d6b807fdcafe682bc0265d5d651fa"
 metafile = true
 
 [[files]]
-file = "mods/lightest-lamps-5.0.4.jar"
-hash = "f87bf4281ccd6df84e7beaed705f71c875a52e68b0a4d51c1a9c09f7d402e912"
+file = "mods/lightest-lamps-5.0.5.jar"
+hash = "ca93417b79fe570a5341b24c33c5d11ebf176a1999528d9412bf69694c16a793"
 
 [[files]]
 file = "mods/linkart-refabricated.pw.toml"
@@ -978,8 +982,8 @@ hash = "6803e0debba4fb27c735ccb139d26ae4c7744b8a7d2ac500d4f56b1d411faeea"
 metafile = true
 
 [[files]]
-file = "mods/mcda-6.0.4.jar"
-hash = "e7de2c5651c17dda546a12f0c0da53c976814d0b6f1aea5fe94a6c01206dc0c1"
+file = "mods/mcda-6.0.5.jar"
+hash = "ed85b755874c07daa7858f65a1153a8dc7225b59ce0f9010d168b0e16a6c7834"
 
 [[files]]
 file = "mods/mcdw-fabric-10.0.6+mc1.21.1.jar"
