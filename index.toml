@@ -1272,7 +1272,7 @@ metafile = true
 
 [[files]]
 file = "mods/workers-1.21.1-1.2.0.jar"
-hash = "d510f61c0953ab137a2bceee9f0ff543c6cc26e8ac299ce1f3f84102442562e5"
+hash = "30ed2f2b2ea0d0bfeed064cabf8f277ebf8627defbf3fa679a8366ea8cf33ced"
 
 [[files]]
 file = "mods/worldweaver.pw.toml"
