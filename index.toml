@@ -874,7 +874,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-highway.jar"
-hash = "a5ada235ce902298c72e4c85c2f2c74dcf76fbf427253ea77913d98e31be9942"
+hash = "db53fe8433ce6bfd74ac311478de240ad7125d5c8fd2d890497751b366dfdf34"
 
 [[files]]
 file = "mods/jade.pw.toml"
@@ -1271,8 +1271,8 @@ hash = "59bfe909b2a0b89b7698e7c7eb03458d03d3b08160321ce54f1b6c37cfee45bb"
 metafile = true
 
 [[files]]
-file = "mods/workers-1.21.1-1.2.0.jar"
-hash = "30ed2f2b2ea0d0bfeed064cabf8f277ebf8627defbf3fa679a8366ea8cf33ced"
+file = "mods/workers-1.21.1-1.3.0.jar"
+hash = "bbb0dd47704dd75f0d71f7802f2fb7307aa251170d975b6ad0013aa51ed2b940"
 
 [[files]]
 file = "mods/worldweaver.pw.toml"
