@@ -453,8 +453,12 @@ file = "mods/IronChests-2.0.4.jar"
 hash = "1829b11371aa462bd3f5f7416fd5460fd2cd8642631921ae17bcd713a3476f54"
 
 [[files]]
-file = "mods/liquid-highway-1.21.1-1.1.0.jar"
-hash = "917bbc8c10af335c5b621b70ca84fefeb229bd76378e677090a42532380d1fb8"
+file = "mods/liquid-highway-1.21.1-1.3.1.jar"
+hash = "1323871ead20c1532bb99cd10bf6f36437e24e3ad087749378678ba5c980e3b3"
+
+[[files]]
+file = "mods/air-highway-1.21.1-0.4.1.jar"
+hash = "a3ab22a50b4a267f017e3e9d913f4bbdf1fe7266a1c429fa81573211b0bef54b"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -870,7 +874,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-highway.jar"
-hash = "db53fe8433ce6bfd74ac311478de240ad7125d5c8fd2d890497751b366dfdf34"
+hash = "022a6c7b3e3e6e11ee0dd05b3b4413ea628383389505f539f956cb22fe8d8243"
 
 [[files]]
 file = "mods/jade.pw.toml"
@@ -1267,8 +1271,8 @@ hash = "59bfe909b2a0b89b7698e7c7eb03458d03d3b08160321ce54f1b6c37cfee45bb"
 metafile = true
 
 [[files]]
-file = "mods/workers-1.21.1-1.3.0.jar"
-hash = "bbb0dd47704dd75f0d71f7802f2fb7307aa251170d975b6ad0013aa51ed2b940"
+file = "mods/workers-1.21.1-1.5.1.jar"
+hash = "6185e5363413b413b335244e56d2e6263ff3bdb9105c2f3f0e02520a6d418f93"
 
 [[files]]
 file = "mods/worldweaver.pw.toml"
