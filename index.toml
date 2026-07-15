@@ -453,10 +453,6 @@ file = "mods/IronChests-2.0.4.jar"
 hash = "1829b11371aa462bd3f5f7416fd5460fd2cd8642631921ae17bcd713a3476f54"
 
 [[files]]
-file = "mods/recipe-fixes-1.0.0.jar"
-hash = "f47aed802418ae61292da73dde032351983da66ae653c5179c4f0069e962f089"
-
-[[files]]
 file = "mods/liquid-highway-1.21.1-1.1.0.jar"
 hash = "917bbc8c10af335c5b621b70ca84fefeb229bd76378e677090a42532380d1fb8"
 
